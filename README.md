@@ -10,8 +10,6 @@ Recentemente abrimos uma vaga para desenvolvedor front-end pleno e quero te conv
 
 Meu maior orgulho aqui na Viva Decora é ter participado do crescimento profissional de vários desenvolvedores do nosso time e do meu próprio desenvolvimento, é claro. Então posso te garantir que se você procura um ambiente agradável e uma equipe focada e com muita autonomia a Viva Decora pode ser a oportunidade perfeita para sua carreira.
 
-Em nossa equipe de desenvolvedores a média de tempo de empresa é de 3 anos, nunca nenhum desenvolvedor saiu antes de completar 1 ano de casa.
-
 Inscreva-se no nossos processos seletivos.
 
 ## Tamanho da equipe
