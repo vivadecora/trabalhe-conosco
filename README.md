@@ -16,8 +16,8 @@ Inscreva-se no nossos processos seletivos.
 
 Hoje a equipe conta com:
 
-* 2 desenvolvedores frontend
-* 2 desenvolvedores backend
+* 3 desenvolvedores frontend
+* 3 desenvolvedores backend
 * 1 devops
 * 3 UX designer (sempre 1 dedicado ao time)
 * 1 analista SEO
